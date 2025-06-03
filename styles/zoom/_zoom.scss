@@ -1,0 +1,24 @@
+// styles/_zoom.scss
+.product-hero__gallery {
+  .main-image {
+    position: relative;
+    cursor: zoom-in;
+
+    .img-zoom-lens {
+      display: none;
+      position: absolute;
+      width: 200px;
+      height: 200px;
+      border: 2px solid rgba(255, 255, 255, 0.8);
+      border-radius: 0;
+      background-repeat: no-repeat;
+      pointer-events: none;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+      z-index: 10;
+    }
+
+    &:hover .img-zoom-lens {
+      display: block;
+    }
+  }
+}

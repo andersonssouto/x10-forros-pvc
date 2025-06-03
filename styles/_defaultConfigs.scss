@@ -1,0 +1,250 @@
+// VARIÁVEIS
+$primary-color: #1d1736;
+$secondary-color: #4a455e;
+$accent-color: #f8fafc;
+$text-dark: #1e293b;
+$text-light: #f8fafc;
+$text-muted: #64748b;
+$bg-light: #f1f5f9;
+$bg-dark: #1d1736;
+$border-radius: 0.5rem;
+$box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+  0 2px 4px -1px rgba(0, 0, 0, 0.06);
+$transition: all 0.3s ease;
+
+// RESETS
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px;
+  font-size: 16px;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.6;
+  color: $text-dark;
+  background-color: $bg-light;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: $transition;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+  background: none;
+  transition: $transition;
+}
+
+// CONTAINER
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+// TIPOGRAFIA
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+
+  @media (min-width: 768px) {
+    font-size: 2.5rem;
+  }
+}
+
+h2 {
+  font-size: 1.75rem;
+
+  @media (min-width: 768px) {
+    font-size: 2.25rem;
+  }
+}
+
+h3 {
+  font-size: 1.5rem;
+
+  @media (min-width: 768px) {
+    font-size: 1.75rem;
+  }
+}
+
+h4 {
+  font-size: 1.25rem;
+
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+  }
+}
+
+h5 {
+  font-size: 1.125rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+// BOTÕES
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  transition: $transition;
+
+  i {
+    margin-left: 0.5rem;
+
+    &:first-child {
+      margin-left: 0;
+      margin-right: 0.5rem;
+    }
+  }
+
+  &-primary {
+    font-size: 1rem;
+
+    background-color: $bg-light;
+    color: $primary-color;
+
+    &:hover {
+      background-color: darken($bg-light, 5%);
+    }
+
+    @media (max-width: 548px) {
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+  &-secondary {
+    background-color: $secondary-color;
+    color: $text-light;
+
+    &:hover {
+      background-color: darken($secondary-color, 5%);
+    }
+
+    @media (max-width: 548px) {
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+  &-light {
+    background-color: $text-light;
+    color: $primary-color;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+
+    &:hover {
+      background-color: darken($text-light, 5%);
+    }
+
+    @media (max-width: 548px) {
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+  &-whatsapp {
+    background-color: $primary-color;
+    color: $text-light;
+    width: 100%;
+    margin-top: 1.5rem;
+    font-size: 1rem;
+
+    &:hover {
+      background-color: darken($secondary-color, 5%);
+    }
+  }
+
+  &-full {
+    width: 100%;
+  }
+}
+
+// ESTILOS DAS SEÇÕES
+section {
+  padding: 5rem 0;
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+
+  i {
+    font-size: 1.5rem;
+    color: $secondary-color;
+    margin-right: 0.75rem;
+  }
+
+  h3 {
+    margin-bottom: 0;
+  }
+
+  &.center {
+    justify-content: center;
+    margin-bottom: 0.5rem;
+  }
+
+  &.light {
+    i,
+    h3 {
+      color: $text-light;
+    }
+  }
+}
+
+.section-subtitle {
+  text-align: center;
+  color: $text-muted;
+  max-width: 36rem;
+  margin: 0 auto 3rem;
+
+  &.light {
+    color: rgba($text-light, 0.8);
+  }
+}
+
+.text-center {
+  text-align: center;
+}

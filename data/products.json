@@ -1,0 +1,1925 @@
+{
+  "produtos": [
+    {
+      "id": "forro-pvc-junta-seca-branco",
+      "titulo": "Forro PVC Junta Seca - Branco",
+      "categoria": "Linha Premium",
+      "descricao": "Forro de PVC branco com sistema de encaixe junta seca, garantindo um acabamento uniforme e sofisticado. Ideal para ambientes internos que buscam praticidade e elegância.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-junta-seca-branco-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-junta-seca-branco-mobile.png",
+          "alt": "Forro PVC Junta Seca - Branco"
+        },
+        {
+          "imagem": "img/applications-products/junta-seca-branco-01.png",
+          "alt": "Aplicação do produto 1"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Acabamento Uniforme",
+          "descricao": "Encaixe perfeito, sem frestas aparentes"
+        },
+        {
+          "titulo": "Fácil de Limpar",
+          "descricao": "Lavável, resistente à umidade e sujeira"
+        },
+        {
+          "titulo": "Durabilidade Superior",
+          "descricao": "Resistente a cupins, mofo e corrosão"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "200mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "8mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "6 metros"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso, branco"
+        }
+      ],
+      "aplicacoes": [
+        "Residências",
+        "Escritórios e espaços comerciais",
+        "Comércio",
+        "Lojas, restaurantes e ambientes internos"
+      ],
+      "vantagens": [
+        "Instalação prática",
+        "Resistente à umidade",
+        "Baixa manutenção",
+        "Leve e versátil"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/juntaseca-200mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Fixe os perfis de sustentação no teto"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Utilize serra ou estilete para ajustar as peças"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Posicione as placas e pressione para um encaixe firme"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Aplique acabamentos nos cantos para um visual refinado"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "forro-pvc-junta-seca-angelim",
+      "titulo": "Forro PVC Junta Seca - Angelim",
+      "categoria": "Linha Premium",
+      "descricao": "Forro de PVC com acabamento amadeirado em Angelim, ideal para ambientes internos que exigem elegância, aconchego e praticidade na instalação.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-junta-seca-angelim-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-junta-seca-angelim-mobile.png",
+          "alt": "Forro PVC Junta Seca - Angelim"
+        },
+        {
+          "imagem": "img/applications-products/forro-pvc-junta-seca-angelim-01.png",
+          "alt": "Forro PVC Junta Seca - Angelim"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Estética Amadeirada",
+          "descricao": "Visual natural que imita madeira nobre"
+        },
+        {
+          "titulo": "Encaixe Perfeito",
+          "descricao": "Junta seca para acabamento limpo e discreto"
+        },
+        {
+          "titulo": "Alta Resistência",
+          "descricao": "Imune a pragas, umidade e corrosão"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "200mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "8mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Amadeirado"
+        }
+      ],
+      "aplicacoes": [
+        "Residências",
+        "Escritórios e recepções",
+        "Espaços comerciais"
+      ],
+      "vantagens": [
+        "Visual aconchegante",
+        "Dispensa pintura",
+        "Instalação prática",
+        "Fácil manutenção"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/juntaseca-200mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Monte a base com perfis metálicos ou madeira"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Ajuste o tamanho com ferramentas básicas"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Inicie pelas extremidades e siga em linha reta"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Use perfis de acabamento para um visual completo"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "forro-pvc-junta-seca-platano",
+      "titulo": "Forro PVC Junta Seca - Plátano",
+      "categoria": "Linha Premium",
+      "descricao": "Forro de PVC com acabamento suave em tom Plátano, ideal para compor ambientes com leveza, modernidade e sofisticação.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-junta-seca-platano-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-junta-seca-platano-mobile.png",
+          "alt": "Forro PVC Junta Seca - Plátano"
+        },
+        {
+          "imagem": "img/applications-products/forro-pvc-junta-seca-platano-01.png",
+          "alt": "Forro PVC Junta Seca - Plátano"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Tonalidade Elegante",
+          "descricao": "Cor clara que traz leveza e amplitude visual"
+        },
+        {
+          "titulo": "Sistema Junta Seca",
+          "descricao": "Encaixe preciso, sem frestas aparentes"
+        },
+        {
+          "titulo": "Alta Durabilidade",
+          "descricao": "Resistente à umidade, pragas e desgastes"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "200mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "8mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Amadeirado"
+        }
+      ],
+      "aplicacoes": ["Salas", "Quartos", "Cozinhas", "Varandas residenciais"],
+      "vantagens": [
+        "Visual moderno",
+        "Fácil de instalar",
+        "Manutenção prática",
+        "Resistente ao tempo"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/juntaseca-200mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Fixe os suportes conforme o projeto do ambiente"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Use serra ou estilete para ajustar as peças"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Aplique com firmeza para garantir o acabamento seco"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Finalize com perfis de borda e cantoneiras"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "forro-pvc-modelo-liso-madeira",
+      "titulo": "Forro PVC Liso - Madeira",
+      "categoria": "Linha Premium",
+      "descricao": "Forro de PVC com acabamento liso e tonalidade amadeirada, combinando a estética da madeira com a resistência e praticidade do PVC.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-modelo-liso-madeira-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-modelo-liso-madeira-mobile.png",
+          "alt": "Forro PVC Liso - Madeira"
+        },
+        {
+          "imagem": "img/applications-products/forro-pvc-modelo-liso-madeira-01.png",
+          "alt": "Forro PVC Liso - Madeira"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Visual Natural",
+          "descricao": "Aparência de madeira que valoriza o ambiente"
+        },
+        {
+          "titulo": "Superfície Lisa",
+          "descricao": "Acabamento uniforme e elegante"
+        },
+        {
+          "titulo": "Durável e Prático",
+          "descricao": "Resistente a umidade, pragas e fácil de limpar"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "200mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "8mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso, amadeirado"
+        }
+      ],
+      "aplicacoes": [
+        "Residências",
+        "Escritórios",
+        "Ambientes comerciais",
+        "Consultórios e recepções"
+      ],
+      "vantagens": [
+        "Estilo e resistência",
+        "Instalação rápida",
+        "Fácil manutenção",
+        "Imune a pragas"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/trad200mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Monte a estrutura de sustentação antes da aplicação"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Ajuste com serra para encaixe perfeito"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Encaixe as peças com leve pressão"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Utilize acabamentos para bordas e quinas"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "forro-pvc-modelo-duplo-cerejeira",
+      "titulo": "Forro PVC Duplo - Cerejeira",
+      "categoria": "Linha Premium",
+      "descricao": "Forro de PVC com estrutura dupla e acabamento amadeirado na cor Cerejeira. Une robustez e sofisticação para ambientes que exigem estilo e resistência.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-modelo-duplo-cerejeira-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-modelo-duplo-cerejeira-mobile.png",
+          "alt": "Forro PVC Duplo - Cerejeira"
+        },
+        {
+          "imagem": "img/applications-products/forro-pvc-modelo-duplo-cerejeira-01.png",
+          "alt": "Forro PVC Duplo - Cerejeira"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Design Amadeirado",
+          "descricao": "Acabamento nobre com textura que remete à madeira natural"
+        },
+        {
+          "titulo": "Modelo Duplo",
+          "descricao": "Mais resistência e estabilidade na instalação"
+        },
+        {
+          "titulo": "Cor Aconchegante",
+          "descricao": "Tom quente que valoriza o ambiente"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "100mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "8mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Amadeirado"
+        }
+      ],
+      "aplicacoes": [
+        "Áreas internas",
+        "Restaurantes",
+        "Escritórios",
+        "Ambientes corporativos"
+      ],
+      "vantagens": [
+        "Alta resistência",
+        "Estética refinada",
+        "Instalação eficiente",
+        "Manutenção simples"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/duplo-100mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Fixe os perfis de suporte no teto"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Ajuste as peças conforme o ambiente"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Alinhe e pressione para travar corretamente"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Use acabamentos nos cantos e bordas para melhor estética"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "forro-pvc-modelo-duplo-carvalho",
+      "titulo": "Forro PVC Duplo - Carvalho",
+      "categoria": "Linha Premium",
+      "descricao": "Forro de PVC com estrutura dupla e acabamento amadeirado na cor Carvalho. Combina durabilidade e estética sofisticada para projetos internos de alto padrão.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-modelo-duplo-carvalho-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-modelo-duplo-carvalho-mobile.png",
+          "alt": "Forro PVC Duplo - Carvalho"
+        },
+        {
+          "imagem": "img/applications-products/forro-pvc-modelo-duplo-carvalho-01.png",
+          "alt": "Forro PVC Duplo - Carvalho"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Acabamento Elegante",
+          "descricao": "Tom amadeirado que transmite requinte"
+        },
+        {
+          "titulo": "Modelo Reforçado",
+          "descricao": "Estrutura dupla para maior estabilidade"
+        },
+        {
+          "titulo": "Alta Durabilidade",
+          "descricao": "Ideal para ambientes que exigem resistência"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "100mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "8mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Amadeirado"
+        }
+      ],
+      "aplicacoes": [
+        "Salas amplas",
+        "Áreas gourmet",
+        "Escritórios modernos",
+        "Hotéis, lojas e ambientes comerciais sofisticados"
+      ],
+      "vantagens": [
+        "Visual nobre",
+        "Instalação prática",
+        "Manutenção mínima",
+        "Proteção completa"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/duplo-100mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Fixe os perfis de suporte com nivelamento"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Corte conforme a medida necessária"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Modelo duplo garante firmeza e alinhamento"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Use perfis de borda para um toque final profissional"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "forro-pvc-tradicional-7mm",
+      "titulo": "Forro PVC Frisado - (7mm)",
+      "categoria": "Linha Tradicional",
+      "descricao": "Forro de PVC com acabamento frisado e espessura de 7mm. Modelo clássico, indicado para quem busca praticidade com um toque de estilo discreto.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-tradicional-7m-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-tradicional-7m-mobile.png",
+          "alt": "Forro PVC Frisado - (7mm)"
+        },
+        {
+          "imagem": "img/applications-products/forro-pvc-tradicional-7m-01.png",
+          "alt": "Forro PVC Frisado - (7mm)"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Acabamento Frisado",
+          "descricao": "Relevos que trazem ritmo e movimento ao teto"
+        },
+        {
+          "titulo": "Versátil e Leve",
+          "descricao": "Fácil de instalar e adaptar a diferentes ambientes"
+        },
+        {
+          "titulo": "Boa resistência",
+          "descricao": "Ideal para áreas internas secas e úmidas"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "100mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "7mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "4, 5, 6, 7 e 8m"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Frisado"
+        }
+      ],
+      "aplicacoes": [
+        "Cozinhas",
+        "Escritórios",
+        "Pequenos comércios",
+        "Corredores residenciais"
+      ],
+      "vantagens": [
+        "Visual clássico",
+        "Fácil manutenção",
+        "Custo-benefício",
+        "Instalação prática"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/trad7mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Use perfis metálicos ou de madeira como base"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Ferramentas simples garantem adaptação rápida"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Comece de uma extremidade e siga alinhando as peças"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Utilize cantoneiras e perfis de acabamento nos encontros"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "forro-pvc-tradicional-8mm",
+      "titulo": "Forro PVC Frisado - (8mm)",
+      "categoria": "Linha Tradicional",
+      "descricao": "Forro de PVC com acabamento frisado e espessura reforçada de 8mm. Indicado para quem busca mais resistência sem abrir mão do visual limpo e funcional.",
+      "imagemPrincipal": "img/products-mobile/forro-pvc-tradicional-8mm-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/forro-pvc-tradicional-8mm-mobile.png",
+          "alt": "Forro PVC Frisado - (8mm)"
+        },
+        {
+          "imagem": "img/applications-products/forro-pvc-tradicional-8m-01.png",
+          "alt": "Forro PVC Frisado - (8mm)"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Acabamento Frisado",
+          "descricao": "Relevos que trazem ritmo e movimento ao teto"
+        },
+        {
+          "titulo": "Versátil e Leve",
+          "descricao": "Fácil de instalar e adaptar a diferentes ambientes"
+        },
+        {
+          "titulo": "Boa resistência",
+          "descricao": "Ideal para áreas internas secas e úmidas"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Largura",
+          "valor": "100mm"
+        },
+        {
+          "rotulo": "Espessura",
+          "valor": "8mm"
+        },
+        {
+          "rotulo": "Comprimento",
+          "valor": "4, 5, 6, 7 e 8m"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Frisado"
+        }
+      ],
+      "aplicacoes": [
+        "Cozinhas",
+        "Escritórios",
+        "Pequenos comércios",
+        "Corredores residenciais"
+      ],
+      "vantagens": [
+        "Visual clássico",
+        "Fácil manutenção",
+        "Custo-benefício",
+        "Instalação prática"
+      ],
+      "cardExtra": {
+        "imagem": "img/photos/trad8mm.png",
+        "alt": "Desenho Técnico"
+      },
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Use perfis metálicos ou de madeira como base"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Ferramentas simples garantem adaptação rápida"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Comece de uma extremidade e siga alinhando as peças"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Utilize cantoneiras e perfis de acabamento nos encontros"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "roda-forro-tipo-sanca-branco",
+      "titulo": "Roda-Forro Tipo Sanca - Branco",
+      "categoria": "Acabamento",
+      "descricao": "Acabamento em PVC na cor branca, ideal para cobrir a transição entre o forro e a parede com um toque de sofisticação. O modelo tipo sanca garante um detalhe elegante e discreto.",
+      "imagemPrincipal": "img/products/roda-forro-tipo-sanca-branco.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/roda-forro-tipo-sanca-branco.png",
+          "alt": "Roda-Forro Tipo Sanca - Branco"
+        },
+        {
+          "imagem": "img/applications-products/roda-forro-tipo-sanca-branco-01.png",
+          "alt": "Roda-Forro Tipo Sanca - Branco"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Design Arredondado",
+          "descricao": "Curvatura suave que remete à sanca tradicional"
+        },
+        {
+          "titulo": "Cor Versátil",
+          "descricao": "Branco neutro que combina com qualquer forro"
+        },
+        {
+          "titulo": "Fácil Aplicação",
+          "descricao": "Ideal para finalização de projetos em PVC"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Residências", "Escritórios", "Clínicas", "Recepções"],
+      "vantagens": [
+        "Acabamento elegante",
+        "Pronto para uso",
+        "Instalação rápida",
+        "Durável e leve"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Defina os pontos de aplicação ao redor do forro"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Faça cortes em ângulo para cantos perfeitos"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Pode ser fixado com cola ou parafusos específicos"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Alinhe bem para um acabamento visual contínuo"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "roda-forro-tipo-u-branco",
+      "titulo": "Roda-Forro Tipo U - Branco",
+      "categoria": "Acabamento",
+      "descricao": "Perfil de acabamento em PVC branco, com formato tipo “U”, ideal para o arremate lateral do forro, garantindo um visual uniforme e discreto.",
+      "imagemPrincipal": "img/products/roda-forro-tipo-u-branco.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/roda-forro-tipo-u-branco.png",
+          "alt": "Roda-Forro Tipo U - Branco"
+        },
+        {
+          "imagem": "img/applications-products/roda-forro-tipo-u-branco-01.png",
+          "alt": "Roda-Forro Tipo U - Branco"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil em “U”",
+          "descricao": "Perfeito para bordas e extremidades do forro"
+        },
+        {
+          "titulo": "Cor Branca",
+          "descricao": "Combina com diferentes estilos de ambiente"
+        },
+        {
+          "titulo": "Instalação Rápida",
+          "descricao": "Encaixe simples e direto"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Residências", "Salas comerciais", "Áreas internas"],
+      "vantagens": [
+        "Acabamento limpo",
+        "Resistência à umidade",
+        "Discreto e funcional",
+        "Leve e prático"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Calcule os cantos e laterais do ambiente"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Ferramentas simples fazem o ajuste"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Rápida e sem sujeira"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Encaixe o forro dentro do perfil para um acabamento perfeito"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "emenda-tipo-h-branco",
+      "titulo": "Emenda Tipo H - Branco",
+      "categoria": "Acabamento",
+      "descricao": "Perfil de emenda em PVC branco no formato “H”, utilizado para unir duas peças de forro com alinhamento perfeito e acabamento discreto.",
+      "imagemPrincipal": "img/products-mobile/emenda-tipo-h-branco-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/emenda-tipo-h-branco-mobile.png",
+          "alt": "Emenda Tipo H - Branco"
+        },
+        {
+          "imagem": "img/applications-products/emenda-tipo-h-branco-01.png",
+          "alt": "Emenda Tipo H - Branco"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil em “H”",
+          "descricao": "Une placas de forro com segurança e precisão"
+        },
+        {
+          "titulo": "Acabamento Clean",
+          "descricao": "Branco neutro que acompanha a linha do forro"
+        },
+        {
+          "titulo": "Prático e Funcional",
+          "descricao": "Ideal para longos vãos ou extensões"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": [
+        "Corredores",
+        "Ambientes corporativos",
+        "Estabelecimentos"
+      ],
+      "vantagens": [
+        "Alta durabilidade",
+        "Alinhamento perfeito",
+        "Estética uniforme",
+        "Instalação fácil"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Garanta encaixe preciso no perfil"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Posicione o perfil entre as duas placas"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Travamento natural sem necessidade de cola"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Verifique nivelamento para acabamento contínuo"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "roda-forro-tipo-sanca-bege",
+      "titulo": "Roda-Forro Tipo Sanca - Bege",
+      "categoria": "Acabamento",
+      "descricao": "Perfil decorativo em PVC com curvatura tipo sanca, na cor bege. Garante um acabamento sofisticado entre o forro e a parede, com suavidade e integração visual ao ambiente.",
+      "imagemPrincipal": "img/products/roda-forro-tipo-sanca-bege.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/roda-forro-tipo-sanca-bege.png",
+          "alt": "Roda-Forro Tipo Sanca - Bege"
+        },
+        {
+          "imagem": "img/applications-products/roda-forro-tipo-sanca-bege-01.png",
+          "alt": "Roda-Forro Tipo Sanca - Bege"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Modelo Sanca",
+          "descricao": "Acabamento com design arredondado e elegante"
+        },
+        {
+          "titulo": "Tonalidade Bege",
+          "descricao": "Cor neutra, ideal para composições mais quentes"
+        },
+        {
+          "titulo": "Fácil de aplicar",
+          "descricao": "Compatível com diferentes tipos de forro"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Quartos", "Escritórios", "Comércios"],
+      "vantagens": [
+        "Acabamento visual suave",
+        "Cor aconchegante",
+        "Fácil manuseio e corte",
+        "Instalação limpa"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Defina os pontos de aplicação com precisão"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Especialmente em quinas internas"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Conformidade com o forro"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Para acabamento contínuo e harmonioso"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "roda-forro-tipo-u-bege",
+      "titulo": "Roda-Forro Tipo U - Bege",
+      "categoria": "Acabamento",
+      "descricao": "Perfil de acabamento em PVC no formato “U”, na cor bege. Ideal para o encaixe lateral do forro, garantindo uma finalização discreta e uniforme.",
+      "imagemPrincipal": "img/products/roda-forro-tipo-u-bege.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/roda-forro-tipo-u-bege.png",
+          "alt": "Roda-Forro Tipo U - Bege"
+        },
+        {
+          "imagem": "img/applications-products/roda-forro-tipo-u-bege-01.png",
+          "alt": "Roda-Forro Tipo U - Bege"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil em “U”",
+          "descricao": "Acabamento preciso nas bordas do forro"
+        },
+        {
+          "titulo": "Cor Bege",
+          "descricao": "Combina com tons amadeirados e ambientes mais quentes"
+        },
+        {
+          "titulo": "Fácil de encaixar",
+          "descricao": "Aplicação simples e rápida"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Casas", "Escritórios", "Áreas internas"],
+      "vantagens": [
+        "Visual discreto",
+        "Resistência à umidade",
+        "Versatilidade",
+        "Instalação descomplicada"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Para cortes e encaixes precisos"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Garante acabamento sem sobras"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Conforme o tipo de estrutura"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Ajuste suavemente para melhor fixação"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "emenda-tipo-h-bege",
+      "titulo": "Emenda Tipo H - Bege",
+      "categoria": "Acabamento",
+      "descricao": "Perfil de emenda em PVC no formato “H”, na cor bege. Utilizado para unir duas peças de forro de forma contínua e discreta, proporcionando um acabamento alinhado e harmonioso.",
+      "imagemPrincipal": "img/products-mobile/emenda-tipo-h-bege-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/emenda-tipo-h-bege-mobile.png",
+          "alt": "Emenda Tipo H - Bege"
+        },
+        {
+          "imagem": "img/applications-products/emenda-tipo-h-bege-01.png",
+          "alt": "Emenda Tipo H - Bege"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Encaixe em “H”",
+          "descricao": "Une forros com segurança e sem emendas aparentes"
+        },
+        {
+          "titulo": "Tonalidade Bege",
+          "descricao": "Ideal para ambientes com tons neutros e quentes"
+        },
+        {
+          "titulo": "Discreto e prático",
+          "descricao": "Facilita prolongamentos com estética uniforme"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Corredores", "Escritórios", "Ambientes comerciais"],
+      "vantagens": [
+        "Alinhamento perfeito",
+        "Instalação simples",
+        "Estética uniforme",
+        "Alta durabilidade"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Certifique-se de que os forros estão retos"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Alinhe o centro do perfil entre as duas peças"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Ajuste até travar corretamente"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Para acabamento contínuo e seguro"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "roda-forro-tipo-sanca-madeira",
+      "titulo": "Roda-Forro Tipo Sanca - Madeira",
+      "categoria": "Acabamento",
+      "descricao": "Perfil decorativo em PVC com curvatura estilo sanca, na tonalidade madeira. Proporciona um acabamento elegante e acolhedor entre o forro e a parede, valorizando o visual dos ambientes.",
+      "imagemPrincipal": "img/products/roda-forro-tipo-sanca-madeira.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/roda-forro-tipo-sanca-madeira.png",
+          "alt": "Roda-Forro Tipo Sanca - Madeira"
+        },
+        {
+          "imagem": "img/applications-products/roda-forro-tipo-sanca-madeira-01.png",
+          "alt": "Roda-Forro Tipo Sanca - Madeira"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Modelo Sanca",
+          "descricao": "Curvatura suave para um acabamento sofisticado"
+        },
+        {
+          "titulo": "Estampa Madeira",
+          "descricao": "Visual aconchegante e natural"
+        },
+        {
+          "titulo": "Encaixe funcional",
+          "descricao": "Compatível com diferentes modelos de forro PVC"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": [
+        "Salas de estar",
+        "Escritórios",
+        "Lojas",
+        "Ambientes comerciais"
+      ],
+      "vantagens": [
+        "Visual sofisticado",
+        "Combinação perfeita",
+        "Fácil instalação",
+        "Durável e resistente"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Calcule o espaço necessário com precisão"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Para quinas e emendas perfeitas"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Conformidade com o tipo de estrutura"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Garante acabamento contínuo e harmonioso"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "roda-forro-tipo-u-madeira",
+      "titulo": "Roda-Forro Tipo U - Madeira",
+      "categoria": "Acabamento",
+      "descricao": "Perfil de acabamento em PVC no formato “U”, com acabamento em tonalidade madeira. Ideal para finalizar forros de forma discreta, garantindo um visual contínuo e elegante.",
+      "imagemPrincipal": "img/products/roda-forro-tipo-u-madeira.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/roda-forro-tipo-u-madeira.png",
+          "alt": "Roda-Forro Tipo U - Madeira"
+        },
+        {
+          "imagem": "img/applications-products/roda-forro-tipo-u-madeira-01.png",
+          "alt": "Roda-Forro Tipo U - Madeira"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil em “U”",
+          "descricao": "Acabamento preciso nas bordas do forro"
+        },
+        {
+          "titulo": "Textura Madeira",
+          "descricao": "Visual natural e sofisticado"
+        },
+        {
+          "titulo": "Alta compatibilidade",
+          "descricao": "Funciona com diferentes modelos de forro"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": [
+        "Ambientes residenciais",
+        "Escritórios rústicos",
+        "Consultórios",
+        "Cafeterias"
+      ],
+      "vantagens": [
+        "Acabamento contínuo",
+        "Visual aconchegante",
+        "Instalação fácil",
+        "Alta resistência"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Meça as bordas antes da aplicação"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Corte no tamanho certo para o uso"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Alinhe com cuidado"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Verifique o acabamento final para uniformidade e estética"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "emenda-tipo-h-madeira",
+      "titulo": "Emenda Tipo H - Madeira",
+      "categoria": "Acabamento",
+      "descricao": "Perfil de emenda em PVC com acabamento em madeira. Ideal para unir placas de forro PVC de forma contínua e discreta, mantendo a estética e o alinhamento visual em ambientes com acabamento amadeirado.",
+      "imagemPrincipal": "img/products-mobile/emenda-tipo-h-madeira-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/emenda-tipo-h-madeira-mobile.png",
+          "alt": "Emenda Tipo H - Madeira"
+        },
+        {
+          "imagem": "img/applications-products/emenda-tipo-h-madeira-01.png",
+          "alt": "Emenda Tipo H - Madeira"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil em “H”",
+          "descricao": "Encaixe firme e uniforme entre as peças"
+        },
+        {
+          "titulo": "Acabamento Madeira",
+          "descricao": "Visual elegante e natural"
+        },
+        {
+          "titulo": "Instalação prática",
+          "descricao": "Aplicação rápida e eficiente"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Comprimento",
+          "valor": "6m"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "12 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Residências ", "Salas rústicas", "Ambientes comerciais"],
+      "vantagens": [
+        "Alinhamento perfeito",
+        "Visual harmonioso",
+        "Resistência à umidade",
+        "Pronto para uso"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Certifique-se de que as peças estejam alinhadas"
+        },
+        {
+          "passo": 2,
+          "titulo": "Corte",
+          "descricao": "Insira as extremidades no perfil em “H”"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Fixe com pressão, garantindo um encaixe seguro"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Verifique nivelamento para um acabamento uniforme"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "canto-interno-branco",
+      "titulo": "Canto Interno - Branco",
+      "categoria": "Acessório",
+      "descricao": "Perfil de acabamento em PVC utilizado para o encontro entre paredes e forro em ângulo de 90°, proporcionando uma finalização limpa e discreta. Na cor branca, é ideal para ambientes claros e neutros.",
+      "imagemPrincipal": "img/products-mobile/canto-interno-branco-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/canto-interno-branco-mobile.png",
+          "alt": "Canto Interno - Branco"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil angular",
+          "descricao": "Solução prática para cantos internos"
+        },
+        {
+          "titulo": "Acabamento discreto",
+          "descricao": "Transição suave entre forro e parede"
+        },
+        {
+          "titulo": "Cor Branca",
+          "descricao": "Versátil e combina com todos os modelos de forro"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Tamanho",
+          "valor": "Único"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "100 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Residências ", "Escritórios", "Ambientes comerciais"],
+      "vantagens": [
+        "Acabamento limpo e funcional",
+        "Instalação simples e rápida",
+        "Combina com todos os estilos de forro PVC",
+        "Durável e resistente à umidade"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Certifique-se da base nas medidas do ambiente"
+        },
+        {
+          "passo": 2,
+          "titulo": "Fixação",
+          "descricao": "Fixe com cola adequada para PVC, ou parafuse, se necessário"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Alinhe o perfil ao encontro das paredes"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Faça o acabamento com leve pressão"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "canto-externo-branco",
+      "titulo": "Canto Externo - Branco",
+      "categoria": "Acessório",
+      "descricao": "Perfil em PVC projetado para proteger e dar acabamento aos encontros externos entre paredes e forro. Na cor branca, garante uma finalização elegante e alinhada com diferentes estilos de ambiente.",
+      "imagemPrincipal": "img/products-mobile/canto-externo-branco-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/canto-externo-branco-mobile.png",
+          "alt": "Canto Externo - Branco"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil de canto externo",
+          "descricao": "Protege bordas e quinas expostas"
+        },
+        {
+          "titulo": "Visual branco neutro",
+          "descricao": "Combina com qualquer tipo de forro"
+        },
+        {
+          "titulo": "Acabamento uniforme",
+          "descricao": "Traz continuidade estética aos cantos"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Tamanho",
+          "valor": "Único"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "100 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": ["Residências ", "Escritórios", "Ambientes comerciais"],
+      "vantagens": [
+        "Protege e valoriza o acabamento",
+        "Instalação rápida e simples",
+        "Combina com todos os modelos e cores de forro",
+        "Alta durabilidade e resistência à umidade"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Encaixe nos cantos externos"
+        },
+        {
+          "passo": 2,
+          "titulo": "Fixação",
+          "descricao": "Aplique cola própria para PVC"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Ajuste com firmeza nos cantos"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Revise o acabamento final"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "emenda-roda-forro-branca",
+      "titulo": "Emenda Roda-Forro - Branca",
+      "categoria": "Acessório",
+      "descricao": "Pequeno conector em PVC utilizado para unir dois perfis de roda-forro, proporcionando continuidade e acabamento uniforme nas emendas. Discreta e funcional, na cor branca.",
+      "imagemPrincipal": "img/products/emenda-roda-forro-branca.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/emenda-roda-forro-branca.png",
+          "alt": "Emenda Roda-Forro - Branca"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Encaixe preciso",
+          "descricao": "Une dois perfis de roda-forro com firmeza"
+        },
+        {
+          "titulo": "Cor branca",
+          "descricao": "Combina com perfis claros e neutros"
+        },
+        {
+          "titulo": "Finalização limpa",
+          "descricao": "Evita desníveis visuais nas emendas"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Tamanho",
+          "valor": "Único"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "100 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": [
+        "Ambientes residenciais",
+        "Escritórios",
+        "Estabelecimentos"
+      ],
+      "vantagens": [
+        "Acabamento discreto",
+        "Aplicação rápida",
+        "Visual contínuo",
+        "Alta compatibilidade com perfis tipo U e sanca"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Alinhe os perfis"
+        },
+        {
+          "passo": 2,
+          "titulo": "Fixação",
+          "descricao": "Posicione a emenda no centro"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Pressione até fixar"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Ajuste o alinhamento visual"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "canto-interno-bege",
+      "titulo": "Canto Interno - Bege",
+      "categoria": "Acessório",
+      "descricao": "Perfil de acabamento em PVC para quinas internas entre forro e parede. A cor bege proporciona um toque suave e discreto, ideal para ambientes com tons neutros e acolhedores.",
+      "imagemPrincipal": "img/products-mobile/canto-interno-bege-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/canto-interno-bege-mobile.png",
+          "alt": "Canto Interno - Bege"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil angular",
+          "descricao": "Acabamento ideal para encontros internos"
+        },
+        {
+          "titulo": "Cor Bege",
+          "descricao": "Combinação suave e elegante com tons claros"
+        },
+        {
+          "titulo": "Fácil encaixe",
+          "descricao": "Agilidade na instalação e excelente fixação"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Tamanho",
+          "valor": "Único"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "100 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": [
+        "Ambientes residenciais",
+        "Escritórios",
+        "Estabelecimentos"
+      ],
+      "vantagens": [
+        "Transição limpa e discreta",
+        "Visual suave e neutro",
+        "Instalação simples",
+        "Alta durabilidade em áreas internas"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Meça os cantos com precisão"
+        },
+        {
+          "passo": 2,
+          "titulo": "Fixação",
+          "descricao": "Aplique cola específica para PVC"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Encaixe o perfil no canto da parede"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Ajuste para uniformidade"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "canto-externo-bege",
+      "titulo": "Canto Externo - Bege",
+      "categoria": "Acessório",
+      "descricao": "Perfil em PVC ideal para acabamento em quinas externas entre paredes e forro. A tonalidade bege oferece uma transição suave, discreta e harmoniosa com ambientes de cores neutras.",
+      "imagemPrincipal": "img/products-mobile/canto-externo-bege-mobile.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products-mobile/canto-externo-bege-mobile.png",
+          "alt": "Canto Externo - Bege"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Perfil de canto externo",
+          "descricao": "Protege e finaliza quinas expostas"
+        },
+        {
+          "titulo": "Cor Bege",
+          "descricao": "Estética leve e versátil"
+        },
+        {
+          "titulo": "Acabamento contínuo",
+          "descricao": "Uniformidade no encontro de superfícies"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Tamanho",
+          "valor": "Único"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "100 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": [
+        "Ambientes residenciais",
+        "Escritórios",
+        "Estabelecimentos"
+      ],
+      "vantagens": [
+        "Acabamento discreto e elegante",
+        "Proteção para quinas",
+        "Aplicação rápida e prática",
+        "Alta durabilidade em áreas internas"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Corte conforme o tamanho do canto"
+        },
+        {
+          "passo": 2,
+          "titulo": "Fixação",
+          "descricao": "Aplique cola para PVC"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Encaixe sobre o ângulo externo"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Verifique o alinhamento visual"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    },
+    {
+      "id": "emenda-roda-forro-bege",
+      "titulo": "Emenda Roda-Forro - Bege",
+      "categoria": "Acessório",
+      "descricao": "Conector em PVC utilizado para unir dois perfis de roda-forro de forma discreta e contínua. Na cor bege, proporciona um acabamento suave e elegante em ambientes com tons neutros.",
+      "imagemPrincipal": "img/products/emenda-roda-forro-bege.png",
+      "miniaturas": [
+        {
+          "imagem": "img/products/emenda-roda-forro-bege.png",
+          "alt": "Emenda Roda-Forro - Bege"
+        }
+      ],
+      "caracteristicas": [
+        {
+          "titulo": "Encaixe preciso",
+          "descricao": "Une perfis com firmeza e sem desnível"
+        },
+        {
+          "titulo": "Visual uniforme",
+          "descricao": "Mantém a estética contínua do roda-forro"
+        },
+        {
+          "titulo": "Cor Bege",
+          "descricao": "Combina com perfis em tons claros e aconchegantes"
+        }
+      ],
+      "especificacoes": [
+        {
+          "rotulo": "Tamanho",
+          "valor": "Único"
+        },
+        {
+          "rotulo": "Embalagem",
+          "valor": "100 peças"
+        },
+        {
+          "rotulo": "Material",
+          "valor": "PVC"
+        },
+        {
+          "rotulo": "Acabamento",
+          "valor": "Liso"
+        }
+      ],
+      "aplicacoes": [
+        "Ambientes residenciais",
+        "Escritórios",
+        "Estabelecimentos"
+      ],
+      "vantagens": [
+        "Facilita a continuidade do acabamento",
+        "Instalação prática e rápida",
+        "Combina com perfis tipo U e sanca na mesma cor",
+        "Discreto e funcional"
+      ],
+      "guiaInstalacao": [
+        {
+          "passo": 1,
+          "titulo": "Preparação",
+          "descricao": "Alinhe os perfis de roda-forro"
+        },
+        {
+          "passo": 2,
+          "titulo": "Fixação",
+          "descricao": "Posicione a emenda entre os perfis"
+        },
+        {
+          "passo": 3,
+          "titulo": "Encaixe",
+          "descricao": "Pressione até fixar completamente"
+        },
+        {
+          "passo": 4,
+          "titulo": "Finalização",
+          "descricao": "Ajuste para uniformidade visual"
+        }
+      ],
+      "linkWhatsapp": "https://api.whatsapp.com/send/?phone=5551994819947"
+    }
+  ]
+}

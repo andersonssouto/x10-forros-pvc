@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      rel="shortcut icon"
+      href="img/favicon/favicon.png"
+      type="image/x-icon"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detalhes do Produto | X10 Forro PVC</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="container">
+        <div class="header__content">
+          <div class="header__logo">
+            <a href="index.html">
+              <img
+                src="img/logos/horizontal-x10-logo.png"
+                alt="Logo X10 Forro PVC"
+              />
+            </a>
+          </div>
+          <nav class="header__nav">
+            <ul>
+              <li><a href="index.html" class="nav-link">Início</a></li>
+              <li><a href="index.html#sobre" class="nav-link">Sobre</a></li>
+              <li><a href="allProducts.html" class="nav-link">Produtos</a></li>
+              <li>
+                <a href="index.html#vantagens" class="nav-link">Vantagens</a>
+              </li>
+              <li>
+                <a href="index.html#depoimentos" class="nav-link"
+                  >Depoimentos</a
+                >
+              </li>
+              <li><a href="index.html#contato" class="nav-link">Contato</a></li>
+            </ul>
+          </nav>
+          <button class="header__menu-toggle" aria-label="Menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main id="product-detail-container">
+      <section class="product-hero">
+        <div class="container">
+          <nav class="breadcrumb fade-in">
+            <a href="index.html">Início</a>
+            <span>/</span>
+            <a href="allProducts.html">Produtos</a>
+            <span>/</span>
+            <span class="current" id="product-breadcrumb">Carregando...</span>
+          </nav>
+
+          <div class="product-hero__content">
+            <div class="product-hero__gallery fade-in">
+              <div class="main-image">
+                <img
+                  src=""
+                  alt="Imagem do produto"
+                  id="mainImage"
+                  loading="lazy"
+                  decoding="async"
+                  width="300"
+                  height="300"
+                />
+              </div>
+              <div class="thumbnail-grid" id="thumbnail-container">
+                <!-- Miniaturas serão inseridas aqui via JavaScript -->
+              </div>
+            </div>
+
+            <div class="product-hero__info fade-in">
+              <span class="category" id="product-category"></span>
+              <h2 id="product-title">Carregando...</h2>
+              <p class="description" id="product-description"></p>
+
+              <div class="features" id="features-container">
+                <!-- Características serão inseridas aqui via JavaScript -->
+              </div>
+
+              <div class="cta-buttons">
+                <a href="#" class="btn btn-primary" id="whatsapp-button">
+                  <i class="bi bi-whatsapp"></i>
+                  Solicitar Orçamento
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="product-details">
+        <div class="container">
+          <div class="product-details__grid">
+            <div class="details-card fade-in">
+              <h3>Especificações Técnicas</h3>
+              <ul class="specs-list" id="specs-list"></ul>
+            </div>
+
+            <div class="details-card fade-in">
+              <h3>Aplicações Recomendadas</h3>
+              <ul class="applications-list" id="applications-list"></ul>
+            </div>
+
+            <div class="details-card fade-in">
+              <h3>Vantagens</h3>
+              <ul class="benefits-list" id="benefits-list"></ul>
+            </div>
+
+            <div class="details-card fade-in">
+              <h3>Desenho Técnico</h3>
+              <ul class="additional-card" id="additional-card"></ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="installation-guide">
+        <div class="container">
+          <h3 class="section-title center fade-in">
+            <i class="bi bi-wrench-adjustable-circle-fill"></i>
+            Guia de Instalação
+          </h3>
+          <p class="section-subtitle fade-in">
+            Confira o passo a passo para uma instalação perfeita.
+          </p>
+
+          <div class="steps-grid" id="installation-steps">
+            <div class="step-card fade-in">
+              <div class="step-number">1</div>
+              <h4>Preparação</h4>
+              <p>Fixe os perfis de sustentação no teto</p>
+            </div>
+            <div class="step-card fade-in">
+              <div class="step-number">2</div>
+              <h4>Corte</h4>
+              <p>Utilize serra ou estilete para ajustar as peças</p>
+            </div>
+            <div class="step-card fade-in">
+              <div class="step-number">3</div>
+              <h4>Encaixe</h4>
+              <p>Posicione as placas e pressione para um encaixe firme</p>
+            </div>
+            <div class="step-card fade-in">
+              <div class="step-number">4</div>
+              <h4>Finalização</h4>
+              <p>Aplique acabamentos nos cantos para um visual refinado</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__grid">
+          <div class="footer__about">
+            <a href="index.html">
+              <img src="img/logos/white-horizontal-x10-logo.png" alt="" />
+            </a>
+            <p>Soluções que agregam valor e beleza a qualquer projeto.</p>
+            <div class="footer__social">
+              <a
+                href="https://www.instagram.com/x10forropvc"
+                aria-label="Instagram"
+                target="_blank"
+              >
+                <i class="bi bi-instagram"></i>
+              </a>
+
+              <a
+                href="https://www.facebook.com/profile.php?id=100093712956278&locale=pt_BR"
+                aria-label="Facebook"
+                target="_blank"
+              >
+                <i class="bi bi-facebook"></i>
+              </a>
+
+              <a
+                href="https://api.whatsapp.com/send/?phone=5551994819947&text=Ol%C3%A1%21+Vim+pelo+site+da+X10+tirar+algumas+d%C3%BAvidas!&type=phone_number&app_absent=0"
+                aria-label="WhatsApp"
+                target="_blank"
+              >
+                <i class="bi bi-whatsapp"></i>
+              </a>
+            </div>
+          </div>
+
+          <div class="footer__links">
+            <h5>Links rápidos</h5>
+            <ul>
+              <li><a href="index.html#sobre">Sobre</a></li>
+              <li><a href="allProducts.html">Produtos</a></li>
+              <li><a href="index.html#applications">Inspirações</a></li>
+              <li><a href="index.html#contato">Contato</a></li>
+            </ul>
+          </div>
+
+          <div class="footer__links">
+            <h5>Para Revendedores</h5>
+            <ul>
+              <li><a href="index.html#produtos">Forro PVC 100% Durável </a></li>
+              <li><a href="index.html#produtos">Variedade de Modelos </a></li>
+              <li>
+                <a href="index.html#produtos">Soluções para Revendedores </a>
+              </li>
+              <li>
+                <a href="index.html#produtos">Entrega Rápida e Segura </a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="footer__contact">
+            <h5>Contato</h5>
+            <ul>
+              <li>
+                <i class="bi bi-telephone-fill"></i>
+                <span>(51) 99481-9947</span>
+              </li>
+              <li>
+                <i class="bi bi-envelope-at-fill"></i>
+                <span>pedidosx10@gmail.com</span>
+              </li>
+              <li>
+                <i class="bi bi-geo-alt-fill"></i>
+                <span
+                  >Rua Arnô da Silva Feijó, 2100 Distrito Industrial, Alvorada -
+                  94836-260
+                </span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footer__bottom">
+          <p>
+            &copy; <span id="currentYear"></span> X10 Forro PVC. Todos os
+            direitos reservados.
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <div class="back-to-top">
+      <i class="bi bi-arrow-up"></i>
+    </div>
+
+    <!-- Scripts -->
+    <script src="script/main.js" type="module"></script>
+    <script src="script/loadProductDetails.js"></script>
+    <script src="script/imageZoom.js"></script>
+    <script src="script/utilities.js"></script>
+  </body>
+</html>
